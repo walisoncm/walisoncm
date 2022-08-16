@@ -151,5 +151,5 @@
 </p>
 <p>
   &nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=walisoncm&show_icons=true&locale=en&layout=compact&theme=nord" alt="walisoncm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=walisoncm&show_icons=true&locale=en&layout=compact&theme=nord" alt="walisoncm" />
 </p>
