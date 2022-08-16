@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walison Magalhães</h1>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=walisoncm&theme=cobalt" alt="walisoncm" />
+    <img src="https://github-profile-trophy.vercel.app/?username=walisoncm&theme=nord" alt="walisoncm" />
   </a>
 </p>
 
@@ -147,9 +147,9 @@
   </a>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walisoncm&show_icons=true&locale=en&layout=compact&hide=pascal&theme=cobalt" alt="walisoncm" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walisoncm&show_icons=true&locale=en&layout=compact&hide=pascal&theme=nord" alt="walisoncm" />
 </p>
 <p>
   &nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=walisoncm&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="walisoncm" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=walisoncm&show_icons=true&locale=en&layout=compact&theme=nord" alt="walisoncm" />
 </p>
